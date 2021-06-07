@@ -8,11 +8,6 @@
 		},
 		"admins": [
 			{
-				"name": "Dylan Walker",
-				"userID": "dylan.walker",
-				"email": "dylan.walker@elegantcomm.com"
-			},
-			{
 				"name": "James Tandy",
 				"userID": "james.tandy",
 				"email": "james.tandy@servicenow.com"
