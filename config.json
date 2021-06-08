@@ -1,17 +1,1 @@
-{
-	"environment": {
-		"provider": "aws",
-		"type": "test",
-		"size": {
-			"name": "x-small",
-			"config": []
-		},
-		"admins": [
-			{
-				"name": "James Tandy",
-				"userID": "james.tandy",
-				"email": "james.tandy@servicenow.com"
-			}
-		]
-	}
-}
+
